@@ -1,6 +1,6 @@
 # Flutter UI / UX design list collection
 This is collection of flutter UI design's by various people, all UI design's in one place
-This is work in progress, feel free to constribute and add your known flutter app's
+### This is work in progress, feel free to constribute and add your known flutter app's
 
 - [UI Design](#ui-design)
 - [UI Kit](#ui-kit)
@@ -88,6 +88,7 @@ List of cloned apps
 ## Resources
 List of UI / UX Websites
 
+- https://flutter.dev/
 - Start flutter https://startflutter.com/
 - Collection of articles / tools / libaries etc. https://github.com/Solido/awesome-flutter
 - Firebase plugins collection https://github.com/FirebaseExtended/flutterfire
