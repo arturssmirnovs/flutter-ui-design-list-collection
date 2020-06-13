@@ -50,6 +50,16 @@ List of UI design's, app's.
 - https://github.com/wchaowu/flutter_sample
 - https://github.com/AatiqUrRehman/ting_flutter
 - https://github.com/rodydavis/gmail_clone
+- https://github.com/iharshb/flutter_ui_collection
+- https://github.com/MarcusNg/flutter_travel_ui
+- https://github.com/abuanwar072/eBook_app_Flutter
+- https://github.com/flutter-devs/flutter_classified_app
+- https://github.com/devefy/Flutter-Streaming-Service-App-UI
+- https://github.com/MarcusNg/flutter_netflix_ui_redesign
+- https://github.com/ahkohd/FlutterGamingApp
+- https://github.com/TheAlphamerc/flutter_pokedex
+- https://github.com/trentpiercy/trace
+- https://github.com/TheAlphamerc/flutter_wallet_app
 
 ## UI Kit
 List of UI design's, app's.
@@ -59,6 +69,8 @@ List of UI design's, app's.
 - https://github.com/yumi0629/FlutterUI
 - https://github.com/leoelstin/Flutter-UI-Kits
 - Flutter login screens / buttons / loading - https://github.com/samarthagarwal/FlutterScreens
+- https://github.com/Rannie/flui
+- https://github.com/Furqankhanzada/flutter_eCommerce_ui_kit
 
 **[`^        back to top        ^`](#)**
 
@@ -79,6 +91,12 @@ List of UI / UX Features
 - https://github.com/HitenDev/FlutterDragCard
 - https://github.com/Idean/Flutter-Neumorphic
 - https://github.com/yako-dev/flutter_badges
+- https://github.com/BakerJQ/Flutter-InfiniteCards
+- https://github.com/fedeoo/flip_card
+- https://github.com/xqwzts/flutter_radial_menu
+- https://github.com/Ivaskuu/tinder_cards
+- https://github.com/skkallayath/photofilters
+- https://github.com/iampawan/FlutterBackdrop
 
 **[`^        back to top        ^`](#)**
 
@@ -99,6 +117,14 @@ List of cloned apps
 - https://github.com/o1298098/Flutter-Movie
 - https://github.com/benoitletondor/Beer-Me-Up
 - https://github.com/MarcusNg/flutter_instagram_clone
+- https://github.com/RedBrogdon/flutterflip
+- https://github.com/mjl0602/flutter_tiktok
+- https://github.com/bimsina/Matinee-Flutter
+- https://github.com/Amorem/FlutterSocial
+- https://github.com/deven98/FlutterMinesweeper
+- https://github.com/xinthink/flutter-keep
+- https://github.com/mohak1283/Instagram-Clone
+- https://github.com/roshanrahman/flutter-notes-app
 
 **[`^        back to top        ^`](#)**
 
@@ -106,6 +132,8 @@ List of cloned apps
 List of UI / UX Websites
 
 - https://flutter.dev/
+- https://github.com/flutter
+- https://github.com/flutter/packages
 - Start flutter https://startflutter.com/
 - Collection of articles / tools / libaries etc. https://github.com/Solido/awesome-flutter
 - Firebase plugins collection https://github.com/FirebaseExtended/flutterfire
@@ -117,4 +145,4 @@ List of UI / UX Websites
 
 **[`^        back to top        ^`](#)**
 
-40
+60
