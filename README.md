@@ -40,6 +40,16 @@ List of UI design's, app's.
 - https://github.com/kalismeras61/foodapp
 - https://github.com/JideGuru/FlutterCryptoUI
 - Collection https://github.com/bimsina/FlutterUITemplates
+- https://github.com/JideGuru/FlutterSocialAppUIKit
+- https://github.com/emrade/flutter-social
+- https://github.com/putraxor/flutter-book-app
+- https://github.com/TheAlphamerc/flutter_login_signup
+- https://github.com/rajayogan/flutterui-curveddesigns
+- https://github.com/rvamsikrishna/flutter_ui_challenge_planets_app
+- https://github.com/OpenConsultingGroup/Bungee
+- https://github.com/wchaowu/flutter_sample
+- https://github.com/AatiqUrRehman/ting_flutter
+- https://github.com/rodydavis/gmail_clone
 
 ## UI Kit
 List of UI design's, app's.
@@ -66,6 +76,9 @@ List of UI / UX Features
 - https://github.com/samarthagarwal/FlutterAwesomeList
 - https://github.com/rodydavis/flutter_piano
 - https://github.com/iamSahdeep/liquid_swipe_flutter
+- https://github.com/HitenDev/FlutterDragCard
+- https://github.com/Idean/Flutter-Neumorphic
+- https://github.com/yako-dev/flutter_badges
 
 **[`^        back to top        ^`](#)**
 
@@ -82,6 +95,10 @@ List of cloned apps
 - https://github.com/deven98/FlutterSolitaire
 - https://github.com/KarimElghamry/chillify
 - https://github.com/theindianappguy/FlutterNewsApp
+- https://github.com/TheAlphamerc/flutter_twitter_clone
+- https://github.com/o1298098/Flutter-Movie
+- https://github.com/benoitletondor/Beer-Me-Up
+- https://github.com/MarcusNg/flutter_instagram_clone
 
 **[`^        back to top        ^`](#)**
 
@@ -96,7 +113,8 @@ List of UI / UX Websites
 - https://github.com/asjqkkkk/flutter-todos
 - https://github.com/tortuvshin/open-source-flutter-apps
 - https://github.com/erluxman/awesomefluttertips
+- https://github.com/joshuadeguzman/flutter-examples
 
 **[`^        back to top        ^`](#)**
 
-30
+40
